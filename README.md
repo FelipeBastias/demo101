@@ -1,11 +1,11 @@
-## Repositorio basado en el artículo [Formularios con Ionic](https://www.ion-book.com/blog/ionic2/form-builder/)
+## Repositorio basado en el artículo [Formularios en Ionic](https://www.ion-book.com/blog/ionic2/forms-with-ionic/)
 
 Este proyecto usa:
 
 1. Cordova 7
 1. Ionic CLI 3
 1. Ionic 3
-1. Ionic Native 3
+1. Ionic Native 4
 
 ## Recuerda:
 
