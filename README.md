@@ -12,13 +12,16 @@ Este proyecto usa:
 Si quieres ejecutar este demo un tu computadora, debes tener el entorno de ionic instalado y luego de descargar o clonar el proyecto debes ubicarte en tu proyecto en la terminal y luego ejecutar
 
 ```
+git clone https://github.com/ion-book/demo101.git
+cd demo101
 npm install
+ionic serve
 ````
 
-Y luego
+Para compilar
 
 ```
-ionic cordova prepare
+ionic cordova build android --prod
 ```
 
 esto es para descargar todas las dependencias del proyecto.
